@@ -288,14 +288,14 @@ export default function AudioGuide() {
           <AudioCard
             title="Listen in English"
             subtitle="English narration about the Indian Rose-ringed Parakeet"
-            src="/Indian Rose-Ring Parakeet.mp3"
+            src="/images/hero/Indian Rose-Ring Parakeet.mp3"
             delay={0}
             onPlay={handlePlay}
           />
           <AudioCard
             title="हिंदी में सुनें"
             subtitle="भारतीय गुलाबी गले तोते के बारे में हिंदी में वर्णन"
-            src="/indian red parakits.mp3"
+            src="/images/hero/indian red parakits.mp3"
             delay={0.15}
             onPlay={handlePlay}
           />
